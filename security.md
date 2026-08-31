@@ -16,7 +16,7 @@ The **👾 Xeno Executor** carries the highest UNC score in the free executor ti
 </div>
 
 <div align="center">
-<img alt="Xeno Executor Interface" src="https://raw.githubusercontent.com/laplaplaplas/download/main/assets/evicted_menu_shooter.png" />
+<img alt="Xeno Executor Interface" src="assets/preview.png" />
 </div>
 
 ---
